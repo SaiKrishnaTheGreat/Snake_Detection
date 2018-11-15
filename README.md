@@ -20,6 +20,11 @@ Creating accurate machine learning models capable of localizing and identifying 
 7. Export graph from new trained model
 8. Detect custom objects in real time!
 
+# Results
+![alt text](https://github.com/SaiKrishnaTheGreat/Snake_Detection/blob/master/results/result1.jpeg)
+![alt_text](https://github.com/SaiKrishnaTheGreat/Snake_Detection/blob/master/results/result2.png)
+![alt text](https://github.com/SaiKrishnaTheGreat/Snake_Detection/blob/master/results/result3.png)
+
 Download Model from https://1drv.ms/u/s!AioA6iXbzJf_gQPXjGFV0tHNqolS
 
 Note : Data(snake images) are provided based on request.
